@@ -6,4 +6,8 @@
 
     <color name="regularTextColor">#F8F8FF</color>
     <color name="backgroundRegularColor">#0D263D</color>
+
+
+    <color name="white">#FFFFFF</color>
+
 </resources>

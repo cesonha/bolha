@@ -1,11 +1,13 @@
 <resources>
     <string name="app_name">Bolha</string>
-    <string name="title_home">Home</string>
-    <string name="title_dashboard">Dashboard</string>
+    <string name="title_feed">Feed</string>
+    <string name="title_log">Registros</string>
     <string name="title_notifications">Notifications</string>
 
 
     <!--Strings related to Journal Log-->
     <string name="title_journal_log">Diário de humor</string>
+
+    <!--<string name="floating_image_view_desc">Uma bola branca flutuando pela tela</string>-->
 
 </resources>
