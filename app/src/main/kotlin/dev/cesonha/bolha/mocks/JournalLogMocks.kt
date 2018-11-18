@@ -6,7 +6,11 @@ class JournalLogMocks {
 
     companion object Factory {
         fun getJournalLogs(): List<JournalLog> {
-            return emptyList()
+            val journalLogs = mutableListOf<JournalLog>()
+            for (i in 1..3) {
+               journalLogs.add(JournalLog("Bem humorado", "hoje"))
+           }
+            return journalLogs
         }
     }
 }
